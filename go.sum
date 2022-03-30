@@ -1,0 +1,4 @@
+github.com/ximyro/multi-module-repo/a v0.0.5 h1:RxW0wgc0EVXZuWtOwrRUT85kOYdMcOdsoDeMAHeyYsg=
+github.com/ximyro/multi-module-repo/a v0.0.5/go.mod h1:jm5e7CQerKxd6HooR5Xbio7Mqz+ZEDoivFuecxlnGNc=
+github.com/ximyro/multi-module-repo/b v0.0.6 h1:E2B9n8uQKyGdu5pxrpjflhYKJdatQZ+bGm2lE7JvjWw=
+github.com/ximyro/multi-module-repo/b v0.0.6/go.mod h1:Gngkv2oQX3ukeSURI9mqKATzZBG9em/JwycoQ9w6SfA=
